@@ -28,6 +28,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7862
     wikipedia: http://en.wikipedia.org/wiki/Oscar_Levy
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28146#On-the-Future-of-our-Educational-Institutions
 gutenberg_issued: '2009-02-20'
 gutenberg_type: Text
 identifiers:
